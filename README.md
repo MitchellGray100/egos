@@ -6,7 +6,7 @@ Our team consisted of:<br>
 
 [Mitchell Gray](https://github.com/MitchellGray100);<br>
 [Jacob Kerr](https://github.com/jakejack13);<br>
-Ellie Fassman;<br>
+[Ellie Fassman](https://www.linkedin.com/in/eleftheriafassman/);<br>
 
 ## Disclaimer
 We sadly can't upload any source code since the project was for a class project which would lead to an academic integrity violation; however, source code can be requested by job recruiters!
