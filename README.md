@@ -16,4 +16,4 @@ Our team upgraded an operating system in C. We made a threading and semaphore pa
 
 ## Images
 ![Login Screen](https://github.com/MitchellGray100/egos/blob/main/readMeImages/Login.PNG)<br>
-![Bootup](https://github.com/MitchellGray100/egos/blob/main/readMeImages/Bootup.gif)
+![Bootup](https://github.com/MitchellGray100/egos/blob/main/readMeImages/Bootup.gif) 
